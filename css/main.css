@@ -98,7 +98,11 @@ text-align: right;
 width: 48%;
 margin: 20px 0px;
 font-size: 20px;
-padding: 10px 10px;
+padding: 20px 10px;
+}
+.home .row .child img { 
+    width: 95%;
+    height: 95%;
 }
 .home .row .child h3{
     color: rgb(0, 143, 143);
@@ -140,8 +144,8 @@ padding: 60px 10px;
         width: 100%;
         padding: 5px;}
     .home .row{ display: block;}
-    .home .row .child{width: 98%;
+    .home .row .child{width: 95%;
     padding: 2px;}
-    .home .row .chlid img {width: 20px}
-.home .cust p{ padding: 2px;}
+    .home .row .child img{width: 95%;}
+    .home .cust p{ padding: 2px;}
 }
